@@ -1,0 +1,195 @@
+[
+  {
+    "chapter": 1,
+    "title": "Number Patterns, Sequences and Series",
+    "page_start": 3,
+    "page_end": 23,
+    "paper": "Paper 1",
+    "topics": [
+      "Grade 11 revision of quadratic sequences",
+      "Arithmetic and geometric sequences (progressions)",
+      "Arithmetic and geometric series and proofs",
+      "Sigma notation",
+      "Infinite geometric series and sum to infinity",
+      "Applications of sequences and series including percentages"
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "Functions, Inverses and Logarithms",
+    "page_start": 24,
+    "page_end": 50,
+    "paper": "Paper 1",
+    "topics": [
+      "Revision of Grade 11 functions (parabola, hyperbola, exponential)",
+      "One‑to‑one and many‑to‑one functions; vertical and horizontal line tests",
+      "Inverse graphs and restricting domain and range",
+      "Logarithmic function and its sketch",
+      "Laws of logarithms"
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "Financial Mathematics",
+    "page_start": 51,
+    "page_end": 88,
+    "paper": "Paper 1",
+    "topics": [
+      "Revision of nominal and effective interest rates",
+      "Time lines and using logarithms to determine a time period",
+      "Future value and present value calculations",
+      "Derivation of future and present value formulas",
+      "Loans with payments at the beginning or deferred payments",
+      "Comparing investment and loan options",
+      "Applications of finance to growth and decay"
+    ]
+  },
+  {
+    "chapter": 4,
+    "title": "Trigonometry",
+    "page_start": 90,
+    "page_end": 114,
+    "paper": "Paper 2",
+    "topics": [
+      "Grade 11 trigonometry revision including reduction formulas and identities",
+      "Compound angles and proofs",
+      "Double angles and proofs",
+      "Trigonometric identities using double angles",
+      "Trigonometric equations with double and compound angles"
+    ]
+  },
+  {
+    "chapter": 5,
+    "title": "Assessment on Term 1 (Exemplar Test)",
+    "page_start": 115,
+    "page_end": 118,
+    "paper": "Mixed",
+    "topics": ["Term 1 exemplar test"]
+  },
+  {
+    "chapter": 6,
+    "title": "Two and Three Dimensional Trigonometry",
+    "page_start": 119,
+    "page_end": 131,
+    "paper": "Paper 2",
+    "topics": [
+      "Revision of sine, cosine and area rules",
+      "Ambiguous case of the sine rule",
+      "Three dimensional trigonometry"
+    ]
+  },
+  {
+    "chapter": 7,
+    "title": "Algebra and Differential Calculus",
+    "page_start": 132,
+    "page_end": 164,
+    "paper": "Paper 1",
+    "topics": [
+      "Remainder and factor theorems",
+      "Limits and the concept of average gradient",
+      "Differentiation rules and notation",
+      "Tangents to graphs of functions",
+      "Stationary points, increasing/decreasing functions and concavity"
+    ]
+  },
+  {
+    "chapter": 8,
+    "title": "Curve Sketching and Graph Interpretation",
+    "page_start": 165,
+    "page_end": 187,
+    "paper": "Paper 1",
+    "topics": [
+      "Sketching cubic functions including points of inflection",
+      "Graph interpretation given x‑intercepts",
+      "Graph interpretation given a stationary point and one other point",
+      "Graph interpretation given stationary points",
+      "Translations and mixed examples of cubic functions"
+    ]
+  },
+  {
+    "chapter": 9,
+    "title": "Optimisation of Functions and Rate of Change",
+    "page_start": 188,
+    "page_end": 206,
+    "paper": "Paper 1",
+    "topics": [
+      "Maxima and minima problems and steps to solve them",
+      "Rates of change including related rates",
+      "Calculus of motion: velocity and acceleration"
+    ]
+  },
+  {
+    "chapter": 10,
+    "title": "Analytical Geometry",
+    "page_start": 207,
+    "page_end": 224,
+    "paper": "Paper 1",
+    "topics": [
+      "Summary of coordinate geometry formulas",
+      "Revision of Grade 11 analytic geometry",
+      "Equation and properties of a circle",
+      "Intersection of circles",
+      "Straight lines and tangents to circles"
+    ]
+  },
+  {
+    "chapter": 11,
+    "title": "Exemplar June Exams",
+    "page_start": 225,
+    "page_end": 238,
+    "paper": "Mixed",
+    "topics": ["June exam exemplar – Paper\u00a01", "June exam exemplar – Paper\u00a02"]
+  },
+  {
+    "chapter": 12,
+    "title": "Euclidean Geometry",
+    "page_start": 239,
+    "page_end": 274,
+    "paper": "Paper 2",
+    "topics": [
+      "Revision of Grade 11 geometry: circle geometry, lines, triangles, congruency, quadrilaterals",
+      "Ratios and proportions: area of triangles, parallel lines in triangles",
+      "Midpoint theorem and its converse",
+      "Similarity of polygons and equiangular triangles",
+      "The theorem of Pythagoras"
+    ]
+  },
+  {
+    "chapter": 13,
+    "title": "Statistics",
+    "page_start": 275,
+    "page_end": 293,
+    "paper": "Paper 2",
+    "topics": [
+      "Measures of central tendency and five‑number summary",
+      "Measures of dispersion and calculation of mean",
+      "Calculation of quartiles, percentiles and ogives",
+      "Variance and standard deviation (grouped and ungrouped data)",
+      "Symmetrical and skewed data and identification of outliers",
+      "Scatter plots, regression lines and least squares regression",
+      "Correlation coefficient and using a calculator for regression"
+    ]
+  },
+  {
+    "chapter": 14,
+    "title": "Probability",
+    "page_start": 294,
+    "page_end": 311,
+    "paper": "Paper 2",
+    "topics": [
+      "Basic probability notation and mutually exclusive events",
+      "Addition rule and complementary events",
+      "Dependent and independent events; product rule",
+      "Venn diagrams, tree diagrams and contingency tables",
+      "Fundamental counting principle, factorial notation and selections"
+    ]
+  },
+  {
+    "chapter": 15,
+    "title": "Exemplar Preliminary Examinations",
+    "page_start": 312,
+    "page_end": 367,
+    "paper": "Mixed",
+    "topics": ["Preliminary exam exemplar – Paper\u00a01", "Preliminary exam exemplar – Paper\u00a02"]
+  }
+]
